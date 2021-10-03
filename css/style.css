@@ -354,7 +354,7 @@ a:focus {
 	bottom: 0;
 	width: 100%;
 	height: 2px;
-	background:#ff4f81;
+	background:#df6e0e;
 	content: '';
 	position: absolute;
 	transition: transform .5s ease;
